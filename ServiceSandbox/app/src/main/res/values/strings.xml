@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ServiceSandbox</string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+    <string name="bind_button">Bind</string>
+    <string name="unbind_button">Unbind</string>
+</resources>

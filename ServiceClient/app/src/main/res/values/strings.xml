@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ServiceClient</string>
+    <string name="bind_button">Bind</string>
+    <string name="unbind_button">Unbind</string>
+    <string name="auto_create">AUTO_CREATE</string>
+    <string name="above_client">ABOVE_CLIENT</string>
+    <string name="with_activity">ADJUST_WITH_ACTIVITY</string>
+    <string name="manage_oom">ALLOW_OOM_MANAGEMENT</string>
+    <string name="debug">DEBUG_UNBIND</string>
+    <string name="important">IMPORTANT</string>
+    <string name="not_foreground">NOT_FOREGROUND</string>
+    <string name="waive_priority">WAIVE_PRIORITY</string>
+
+</resources>
