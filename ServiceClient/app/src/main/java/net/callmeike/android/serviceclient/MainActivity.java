@@ -140,7 +140,7 @@ public class MainActivity extends AppCompatActivity implements ServiceConnection
     @NonNull
     private Intent getServiceIntent() {
         Intent intent = new Intent();
-        //intent.setPackage("net.callmeike.android.servicesandbox");
+        intent.setPackage("net.callmeike.android.servicesandbox");
         intent.setAction("net.callmeike.android.servicesandbox.LOGGER");
         return intent;
     }
